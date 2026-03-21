@@ -39,3 +39,21 @@
 "• Explain what is Debugging and why do we need it
 • Use Visual Studio Debugger that helps in navigating through code to inspect the state of an app and show its execution flow.
 • Employ various debugging techniques during application development and maintenance."
+
+
+
+
+
+Overview of ASP.NET Core 8 and .NET 8, ASP.NET Core vs .NET Framework, Installing SDKs and Setting up Visual Studio / VS Code
+Introduction to Project Templates (MVC vs API vs Minimal APIs), Setting Up a Basic MVC Project, Project Structure Overview (Controllers, Views, Models, wwwroot)
+Role of Models, Views, and Controllers, Lifecycle of a Request in an MVC Application
+Creating Models with C# Classes, Strongly-Typed Views and ViewModel Patterns, Data Annotations and Validation
+Creating and Registering Controllers, Handling Requests with Action Methods, Using Parameters in Controller Actions
+Razor View Engine and Razor Syntax, Layout Views and Partial Views, Adding CSS and JavaScript Files
+Convention-based Routing vs Attribute Routing, Route Constraints and Custom Routes, Generating URLs using Tag Helpers
+"Designing Forms with Razor Pages, Handling Form Submission in Controllers, 
+Model Binding and Model Validation"
+Managing State with Session and Cookies, TempData and ViewData for Short-term Data Storage, Managing Authentication State
+Configuring Database Connections, Performing CRUD Operations with EF Core, Using Migrations to Manage Database Schema
+Understanding the DI Container, Registering Services in the DI Container, Injecting Services into Controllers
+Configuring the AppSettings File for Production, Publishing the Application (IIS, Azure, or Docker), Managing Environment-Specific Configurations
