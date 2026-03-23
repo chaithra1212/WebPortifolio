@@ -57,3 +57,29 @@ Managing State with Session and Cookies, TempData and ViewData for Short-term Da
 Configuring Database Connections, Performing CRUD Operations with EF Core, Using Migrations to Manage Database Schema
 Understanding the DI Container, Registering Services in the DI Container, Injecting Services into Controllers
 Configuring the AppSettings File for Production, Publishing the Application (IIS, Azure, or Docker), Managing Environment-Specific Configurations
+
+
+
+Configuring the AppSettings File for Production, Publishing the Application (IIS, Azure, or Docker), Managing Environment-Specific Configurations
+Overview of Web APIs, REST vs. SOAP, Setting up .NET 8 Development Environment, ASP.NET Core Web API project structure
+Creating controllers, actions, and routes, CRUD operations with Entity Framework Core, JSON formatting and serialization
+Attribute routing and query parameters, Middleware and custom filters, Implementing JWT-based authentication and authorization
+Introduction to SOAP APIs and WCF, Consuming SOAP services in ASP.NET Core, Creating SOAP services using WCF
+Global exception handling and error responses, Logging with Serilog, Securing APIs with API keys and Oauth
+Integrating Swagger/OpenAPI for API documentation, Using Postman for manual API testing, Automating API testing with REST Client
+"Definition and characteristics of microservices, Monolithic vs Microservices architecture, Benefits: scalability, modularity, fault isolation, independent deployment, Key principles:
+Decoupling of services, API-based communication, Data decentralization, Domain-driven design basics"
+"Setting up ASP.NET Core for microservices, Creating modular services (e.g., Product, Order, User), Service boundaries and responsibilities, Dependency injection and configuration management, Using Entity Framework Core in microservices, 
+Implementing RESTful APIs with ASP.NET Core Web API"
+"REST API Communication
+HTTP clients in ASP.NET Core (HttpClientFactory), API Gateway basics (e.g., Ocelot), Service discovery (intro to Consul or Eureka)
+Message-Based Communication
+Introduction to asynchronous messaging, Event-driven architecture, Using RabbitMQ with ASP.NET Core, Using Azure Service Bus for cloud-native messaging, Publishing and subscribing to events"
+Containerization with Docker, Independent deployment of services, Basic orchestration concepts (Kubernetes overview), Scaling services individually, Health checks and resilience patterns (e.g., retry, circuit breaker)
+What is Debugging and Why is it important?, Why do we need Debugging?, Steps involved in Debugging, Debugging Strategies, Debugging Tools, Debugger vs. debugging, Debug mode vs. running your app, When to use a debugger
+Set a breakpoint and start the debugger, Navigate code in the debugger using step commands, Step over code to skip functions, Run to a point in your code quickly using the mouse, Advance the debugger out of the current function, Run to cursor, Edit your code and continue debugging, Inspect variables with data tips, Inspect variables with the Autos and Locals windows, Set a watch, Examine the call stack, Inspect an exception, Configure debugging
+Enter break mode, Code stepping-Step into code, Step through code and skip some functions,  Run to a specific location or function - Run to a breakpoint in code, Run to a function breakpoint, Run to Click, Move the pointer to change the execution flow
+What is Automated Testing, Benifits of Automated Testing, Types of Tests, Test Pyramid, Popular Testing Frameworks, Using NUnit in Visual Studio, What is Test-Driven Development
+Characteristics of Good Unit Tests, What to Test and What Not to Test, Naming and Organizing Tests, Black-box Testing, Set Up and Tear Down, Parameterized Tests, Ignoring Tests, Writing Trustworthy Tests
+Testing Strings, Testing Arrays and Collections, Testing Return Type of Methods, Testing Void Methods, Testing Methods that Throw Exceptions, Testing Private Methods, Code Coverage
+Loosely-coupled and Testable Code, Refactoring Towards a Loosely-coupled Design, Dependency Injection via Method Parameters, Dependency Injection via Properties, Dependency Injection via Constructor, Dependency Injection Frameworks, Mocking Frameworks, Creating Mock Objects Using Moq, State-based vs. Interaction Testing, Testing the Interaction Between Two Objects
